@@ -1,0 +1,12 @@
+C:\Users\jewoo\source\repos\VideoStore\VideoStore.Data\bin\Debug\netcoreapp3.1\VideoStore.Data.deps.json
+C:\Users\jewoo\source\repos\VideoStore\VideoStore.Data\bin\Debug\netcoreapp3.1\VideoStore.Data.dll
+C:\Users\jewoo\source\repos\VideoStore\VideoStore.Data\bin\Debug\netcoreapp3.1\VideoStore.Data.pdb
+C:\Users\jewoo\source\repos\VideoStore\VideoStore.Data\bin\Debug\netcoreapp3.1\VideoStore.Core.dll
+C:\Users\jewoo\source\repos\VideoStore\VideoStore.Data\bin\Debug\netcoreapp3.1\VideoStore.Core.pdb
+C:\Users\jewoo\source\repos\VideoStore\VideoStore.Data\obj\Debug\netcoreapp3.1\VideoStore.Data.csproj.AssemblyReference.cache
+C:\Users\jewoo\source\repos\VideoStore\VideoStore.Data\obj\Debug\netcoreapp3.1\VideoStore.Data.AssemblyInfoInputs.cache
+C:\Users\jewoo\source\repos\VideoStore\VideoStore.Data\obj\Debug\netcoreapp3.1\VideoStore.Data.AssemblyInfo.cs
+C:\Users\jewoo\source\repos\VideoStore\VideoStore.Data\obj\Debug\netcoreapp3.1\VideoStore.Data.csproj.CoreCompileInputs.cache
+C:\Users\jewoo\source\repos\VideoStore\VideoStore.Data\obj\Debug\netcoreapp3.1\VideoStore.Data.csproj.CopyComplete
+C:\Users\jewoo\source\repos\VideoStore\VideoStore.Data\obj\Debug\netcoreapp3.1\VideoStore.Data.dll
+C:\Users\jewoo\source\repos\VideoStore\VideoStore.Data\obj\Debug\netcoreapp3.1\VideoStore.Data.pdb

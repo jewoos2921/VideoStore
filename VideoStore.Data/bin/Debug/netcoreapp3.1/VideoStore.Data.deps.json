@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "VideoStore.Data/1.0.0": {
+        "dependencies": {
+          "VideoStore.Core": "1.0.0"
+        },
+        "runtime": {
+          "VideoStore.Data.dll": {}
+        }
+      },
+      "VideoStore.Core/1.0.0": {
+        "runtime": {
+          "VideoStore.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VideoStore.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VideoStore.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
